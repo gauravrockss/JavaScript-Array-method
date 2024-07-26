@@ -35,7 +35,7 @@ For more detailed information and additional resources, visit the JavaScript Arr
 Contributions are welcome! If you have suggestions, improvements, or additional methods to include, feel free to open an issue or submit a pull request.
 
 📧 Contact
-For any questions or feedback, please reach out to me at [your-email@example.com].
+For any questions or feedback, please reach out to me at itsgaurav6392@gmail.com.
 
 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
